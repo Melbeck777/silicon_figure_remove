@@ -1,0 +1,2 @@
+# silicon_figure_remove
+silliconを使って作成したコードの画像の外枠を少し切り取る．
